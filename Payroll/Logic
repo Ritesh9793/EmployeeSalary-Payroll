@@ -1,4 +1,4 @@
-It's a employee pay roll; system.
+It's an implemenntation of employee pay roll system.
 
 Abstract => Employee  can be 
 
@@ -6,5 +6,3 @@ Abstract => Employee  can be
         part time employee
 
            [ payroll system = hours * Hourly rate ]
-
-id  name    salary 
