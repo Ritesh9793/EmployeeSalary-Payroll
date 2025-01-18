@@ -1,13 +1,7 @@
 # EmployeeSalary-Payroll
 
+This iproject is based on Java only for terminal presentation.
 
-It's a employee pay roll; system.
+This project showcases how an employee is being paid in various private sector companies.
 
-Abstract => Employee  can be 
-
-        full time employee     or
-        part time employee
-
-           [ payroll system = hours * Hourly rate ]
-
-id  name    salary 
+It only uses the Java for Backend as it contains only.
