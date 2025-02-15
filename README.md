@@ -1,6 +1,6 @@
 # EmployeeSalary-Payroll
 
-This iproject is based on Java only for terminal presentation.
+This project is based on Java only for terminal presentation.
 
 This project showcases how an employee is being paid in various private sector companies.
 
